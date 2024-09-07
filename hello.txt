@@ -2,3 +2,4 @@ hello git
 in hello
 for diff
 for remote
+test for remote edit
